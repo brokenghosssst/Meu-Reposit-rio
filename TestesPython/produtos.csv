@@ -1,0 +1,5 @@
+id_prod;nome_prod;preco;tamanho;peso;garantia;marca
+10;"Controle";200,90;10cm;46.2g;3 meses;Lg
+30;"Geladeira";3.300,90;180 cm;54kg;2 anos;Electrolux
+60;"Ventilador";500,85:;120 cm;2kg;5 meses;Mondial
+90;"Ar Condicionado";4.400,70;50cm;30kg;1 ano;Brastemp
